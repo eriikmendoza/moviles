@@ -1,0 +1,18 @@
+{
+  "result": [
+  {
+    "Nombre" : "Erik",
+    "Hobby" : "Corrrer",
+    "Edad" : "22",
+    "Telefono" : "4444444444",
+    "Direccion" : "GDL"
+  },
+  {
+    "Nombre" : "Jesus",
+    "Hobby" : "Jugar FiFA",
+    "Edad" : "22",
+    "Telefono" : "3333333333",
+    "Direccion" : "GDL"
+  }
+]
+}
